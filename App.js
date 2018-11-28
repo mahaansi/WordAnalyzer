@@ -1,6 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, TextInput, View , Button } from 'react-native';
 
+
+/**
+ * Developed By:
+ * Maha Abdulmalek 1322200
+ * Rama Ashor 1415615 
+ */
 export default class App extends React.Component {
 
   constructor(){
